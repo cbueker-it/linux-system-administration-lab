@@ -81,6 +81,7 @@ Related Troubleshooting Repositories
 For deeper Linux troubleshooting examples, see these focused repositories covering firmware recovery and power management investigation:
 
 [`efi-firmware-recovery`](https://github.com/cbueker-it/efi-firmware-recovery): EFI boot recovery and firmware troubleshooting after Linux startup failure.
+
 [`ubuntu-suspend-debugging`](https://github.com/cbueker-it/ubuntu-suspend-debugging): Suspend and wake troubleshooting involving Linux power behavior and system diagnostics.
 
 Navigation
